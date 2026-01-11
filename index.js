@@ -10,8 +10,6 @@ function reverseString(str) {
 
     return reversedString;
 }
-console.log(reverseString("naymul"))
-
 
 
 
@@ -195,3 +193,4 @@ function pingPong() {
     return output;
 }
 
+console.log(pingPong())
